@@ -114,3 +114,10 @@ Si la información de detalles mostrada por el sistema es incorrecto, el cliente
 
 
 ## Yo utilisare patron de arquitectura limpia
+
+## Herramientas Utilizadas:
+- [Figma]=> ([>Enlase aqui<](https://www.figma.com/design/evfEerLxA57AyKgfaohDQx/Ransa-Negocio-E.I.R.L.?node-id=0-1&t=PiLtZzwahIfSuTeN-1))
+- [GitHub]=> ([>Enlase aqui<](https://github.com/Ronald1150/Ransa-Negocio-EIRL.git))
+- [Flutter]=>([Enlase aqui](https://flutter.dev/))
+- [Google-Fonts]=>[([Enlase aqui](https://fonts.google.com/icons))]
+- Trello
