@@ -120,4 +120,20 @@ Si la información de detalles mostrada por el sistema es incorrecto, el cliente
 - [GitHub]=> ([>Enlase aqui<](https://github.com/Ronald1150/Ransa-Negocio-EIRL.git))
 - [Flutter]=>([Enlase aqui](https://flutter.dev/))
 - [Google-Fonts]=>[([Enlase aqui](https://fonts.google.com/icons))]
-- Trello
+- [Trello]([text](https://trello.com/invite/b/672cc22af5c99f008875173b/ATTIdac63ae5b5f126bdded67a112f399bf0CD616D77/miappransa))
+# ransa_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
